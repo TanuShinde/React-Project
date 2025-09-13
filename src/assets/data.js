@@ -1,0 +1,42 @@
+export const data = [
+  {
+    question: "Which of the following is not a Java feature?",
+    option1: "Object-Oriented",
+    option2: "Platform Independent",
+    option3: "Use of Pointers",
+    option4: "Robust",
+    ans: 3,
+  },
+  {
+    question: "Which annotation is used to mark a Spring Boot application entry point?",
+    option1: "@SpringBootApplication",
+    option2: "@EnableAutoConfiguration",
+    option3: "@Configuration",
+    option4: "@ComponentScan",
+    ans: 1,
+  },
+  {
+    question: "Which collection class allows key-value pairs in Java without duplicates?",
+    option1: "HashSet",
+    option2: "ArrayList",
+    option3: "HashMap",
+    option4: "Vector",
+    ans: 3,
+  },
+  {
+    question: "In Spring Boot, which file is commonly used for configuration?",
+    option1: "application.properties",
+    option2: "config.json",
+    option3: "bootstrap.xml",
+    option4: "application.yml",
+    ans: 1,
+  },
+  {
+    question: "Which dependency is required for building REST APIs in Spring Boot?",
+    option1: "spring-boot-starter-data-jpa",
+    option2: "spring-boot-starter-security",
+    option3: "spring-boot-starter-web",
+    option4: "spring-boot-starter-test",
+    ans: 3,
+  },
+];
