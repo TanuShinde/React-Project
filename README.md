@@ -1,21 +1,21 @@
 # 🎯 Quiz App
 
-A simple and interactive Quiz Application built with **React.js**.  
-This project allows users to attempt quizzes, view scores, and get instant feedback.
+An interactive **Quiz Application** built with **React + Vite**.  
+This project provides multiple-choice quizzes, tracks scores, and gives instant feedback to users.
 
 ---
 
 ## 🚀 Features
+- 🎉 Built with **Vite** for fast development  
 - ✅ Multiple-choice quiz questions  
 - ✅ Score tracking system  
-- ✅ User-friendly interface  
-- ✅ Responsive design for desktop & mobile  
+- ✅ Responsive & modern UI  
 - ✅ Easy to extend with new questions  
 
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** React.js, JavaScript, HTML, CSS  
+- **Frontend:** React.js, Vite, JavaScript, HTML, CSS  
 - **Package Manager:** npm  
 - **Version Control:** Git & GitHub  
 
